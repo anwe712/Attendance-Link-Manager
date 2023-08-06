@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,500&display=swap');
+
+body{
+    color: white;
+    background: black;
+    font-family: 'Roboto Mono', monospace;
+}
+.list-group li {
+    background-color: rgb(137, 98, 255);
+}
+.list-group-item a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
